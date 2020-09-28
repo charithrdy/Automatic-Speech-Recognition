@@ -8,7 +8,7 @@ Create the following directories for your model and audio files:
 ### Installation Requirements
 
 #### Install DeepSpeech
-pip3 install deepspeech
+pip3 install deepspeech-gpu
 
 #### Download pre-trained English model files (Used Version 0.8.1)
 curl -LO https://github.com/mozilla/DeepSpeech/releases/download/v0.8.1/deepspeech-0.8.1-models.pbmm
