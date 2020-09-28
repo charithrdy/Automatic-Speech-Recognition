@@ -3,7 +3,7 @@
 Create the following directories for your model and audio files:
   - data/audio_examples to place your .wav audio files
   - data/models for the DeepSpeech model files
-  - data/transcriptions will be automatically created, which contains the output transcript files
+  - data/transcriptions will be automatically created, which generates the output transcript files
 
 ### Installation Requirements
 
